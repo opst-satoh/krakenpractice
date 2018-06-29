@@ -4,7 +4,7 @@ aa
 kk
 <<<<<<< HEAD
 rrr
-=======
+=======222
 ttt
 >>>>>>> master
 qqq
