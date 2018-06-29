@@ -8,7 +8,7 @@ rrr
 ttt
 >>>>>>> master
 qqq
-<<<<<<< HEAD
+<<<<<<< HEADedededed
 ggg
 =======
 ppp
