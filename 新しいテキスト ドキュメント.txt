@@ -1,10 +1,9 @@
 aaaakak
-
 aa
 kk
 <<<<<<< HEAD
 rrr
-=======
+=======111
 ttt
 >>>>>>> master
 qqq
