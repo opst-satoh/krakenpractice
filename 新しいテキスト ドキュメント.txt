@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 aaaakak
 aa
 kk
@@ -16,3 +17,6 @@ ggg
 =======
 ppp
 >>>>>>> mtest
+=======
+aaahoge
+>>>>>>> Stashed changes
