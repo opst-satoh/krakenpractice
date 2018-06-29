@@ -2,4 +2,8 @@ aaaakak
 
 aa
 kk
+<<<<<<< HEAD
+rrr
+=======
 ttt
+>>>>>>> master
